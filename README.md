@@ -36,4 +36,4 @@ CSS Properties
 - border-radius
 
 ## About Me
-My name is Danang. I am a web php programmer that develop some websites using PHP. I used to develop a website using PHP framework like Laravel, but most of the time i created with OctoberCMS, the cms based on Laravel framework for more scalability and quick development. But now, i join Hacktiv8 to learn something new there. I want to be a good web developer or programmer that will create impacful technology for bringing contribution for my beloved country or even for all around the world, and society. And dont forget to share knowledge to people around us.
+My name is Danang. I am a web programmer that develop some websites using PHP. I used to develop a website using PHP framework like Laravel, but most of the time i created with OctoberCMS, the cms based on Laravel framework for more scalability and quick development. But now, i join Hacktiv8 to learn something new there. I want to be a good web developer or programmer that will create impacful technology for bringing contribution for my beloved country or even for all around the world, and society. And dont forget to share knowledge to people around us.
