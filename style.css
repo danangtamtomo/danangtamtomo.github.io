@@ -1,5 +1,7 @@
 body {
-		background-color: darkorange;
+		background-image: url('Colorful-Paint-Spiral-Wallpaper-1360x768.jpg');
+		background-size: cover;
+		background-attachment: fixed;
 		margin: 0px;
 }
 
@@ -33,6 +35,23 @@ body {
 		font-weight: bold;
 }
 
+.avatar {
+		width: 250px;
+		height: 250px;
+		margin: auto;
+		background: url('kicking-cat.jpg') no-repeat top right;
+		box-sizing: border-box;
+		border: solid 3px #000;
+		border-radius: 100%; 
+}
+
+td.td-text {
+		color: #b02e19;
+		font-size: 25px;
+		text-align: center;
+		font-weight: bold;
+}
+
 .comment {
 		width: 20%;
 		background-color: #f9ebd5;
@@ -42,6 +61,7 @@ body {
 		border-radius: 50px 0px 0px 50px;
 		padding: 5%;
 		box-shadow: -10px 0px 0px 0px #000;
+		background: -webkit-linear-gradient(#feff00, #c0ff00);
 }
 
 
