@@ -3,7 +3,7 @@
 ___
 **Hi, I am Danang and this is my first webpage. Let's be a fullstack developer with Hacktiv8.**    
 
-**This is my target list:**
+**This is my target list:**  
 1. Being fullstack javascript  
 2. Create a wonderful website  
 
