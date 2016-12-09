@@ -1,0 +1,16 @@
+SIMPAN "Angka pertama"
+SIMPAN "Angka kedua"
+HITUNG "hasilHitung" dari "Angka pertama" dikalikan dengan "Angka kedua"
+TAMPILKAN hasil hitungan
+
+SIMPAN "kata"
+IF "kata" sama dengan "Saya Belajar Javascript"
+	TULISKAN "Pasti Bisa!"
+ENDIF
+
+SIMPAN "angka"
+ULANGI penambahan deret angka dimulai dari angka 1 hingga mencapai "angka" yang telah disimpan sebelumnya
+	IF deret angka habis dibagi 3
+		TAMPILKAN deret angka
+	ENDIF
+ENDULANGI

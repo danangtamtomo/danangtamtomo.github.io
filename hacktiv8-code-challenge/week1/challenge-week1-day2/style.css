@@ -1,0 +1,34 @@
+body {
+		background-color: darkorange;
+		margin: 0px;
+}
+
+.header {
+		font-family: Arial, Courier, serif;
+		text-transform: uppercase;
+		text-align: center;	
+		background-color: yellow;
+		color: #d71a3a;
+}
+
+.header h2 {
+		font-style: italic;
+}
+
+.body {
+		background-color: white;
+}
+
+.body p {
+		font-weight: bold;
+}
+
+.comment {
+		background-color: #f9ebd5;
+		color: #b73a43;
+}
+
+.comment h3 {
+		text-align: center;
+}
+
