@@ -5,7 +5,7 @@ var ClassRoom = function(student) {
     var students = []
     this.student = student
     this.inputStudent = function() {
-        students.push(this.student);
+        students.push(this.student)
     }
     this.getStudents= function() {
         return students
