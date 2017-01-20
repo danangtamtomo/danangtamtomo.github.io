@@ -19,5 +19,5 @@ function hitungDeretPerkalianDenganSelisih(angka, selisih) {
     return hasil;
 }
 
-console.log(`Hasil hitung deret perkalian :` + hitungDeretPerkalian(5));
-console.log(`Hasil hitung deret perkalian dengan selisih:` + hitungDeretPerkalianDenganSelisih(12, 5));
+console.log("Hasil hitung deret perkalian :" + hitungDeretPerkalian(5));
+console.log("Hasil hitung deret perkalian dengan selisih:" + hitungDeretPerkalianDenganSelisih(16, 5));
