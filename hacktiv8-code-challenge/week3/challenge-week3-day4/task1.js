@@ -1,4 +1,4 @@
-function PowersofTwo(num) { 
+function PowersofTwo(num) {
   while(num >= 2) {
       console.log(num);
       if(num === 2) {
@@ -10,4 +10,3 @@ function PowersofTwo(num) {
 }
 
 console.log(PowersofTwo(16));
- 
